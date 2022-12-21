@@ -1,9 +1,9 @@
 # history-app
 
+使用しているもの：
 - node.js
 - express
 - SQlite
-の練習
 
 機能：
 - 購入履歴を表示
